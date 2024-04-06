@@ -1,4 +1,4 @@
-### Hi there 👋
+### Click here to know more about me👋
 
 <!--
 **JorgeRuiz7/JorgeRuiz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
