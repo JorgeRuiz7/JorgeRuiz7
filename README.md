@@ -1,4 +1,4 @@
-### Click here to know more about me👋
+This is the source code to Jon Barron's public academic website: https://jorgeruiz77. Feel free to clone this code for your own personal use.
 
 <!--
 **JorgeRuiz7/JorgeRuiz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
